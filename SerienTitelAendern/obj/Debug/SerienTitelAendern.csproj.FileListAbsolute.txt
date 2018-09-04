@@ -1,0 +1,6 @@
+g:\users\clemens\documents\visual studio 2015\Projects\SerienTitelAendern\SerienTitelAendern\bin\Debug\SerienTitelAendern.exe.config
+g:\users\clemens\documents\visual studio 2015\Projects\SerienTitelAendern\SerienTitelAendern\bin\Debug\SerienTitelAendern.exe
+g:\users\clemens\documents\visual studio 2015\Projects\SerienTitelAendern\SerienTitelAendern\bin\Debug\SerienTitelAendern.pdb
+g:\users\clemens\documents\visual studio 2015\Projects\SerienTitelAendern\SerienTitelAendern\obj\Debug\SerienTitelAendern.csprojResolveAssemblyReference.cache
+g:\users\clemens\documents\visual studio 2015\Projects\SerienTitelAendern\SerienTitelAendern\obj\Debug\SerienTitelAendern.exe
+g:\users\clemens\documents\visual studio 2015\Projects\SerienTitelAendern\SerienTitelAendern\obj\Debug\SerienTitelAendern.pdb
